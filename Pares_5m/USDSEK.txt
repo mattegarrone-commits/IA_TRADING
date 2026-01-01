@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): USDSEK=X
+   FECHA: 2025-12-31 12:24:30
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       9.22046
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   9.21811
+    Último Low Validado (Demanda):   9.20815
+    Distancia a Oferta:  23.5 pips
+    Distancia a Demanda: 123.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

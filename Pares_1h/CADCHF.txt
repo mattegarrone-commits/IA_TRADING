@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): CADCHF=X
+   FECHA: 2025-12-29 23:26:23
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.57650
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.57810
+    Último Low Validado (Demanda):   0.57497
+    Distancia a Oferta:  16.0 pips
+    Distancia a Demanda: 15.3 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                CADCHF=X
+    Entrada exacta:     0.57650
+    Stop Loss:          0.57447
+    Take Profit:        0.58056
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

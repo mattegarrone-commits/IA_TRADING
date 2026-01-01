@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): JPY=X
+   FECHA: 2026-01-01 13:24:01
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       156.74600
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   156.92300
+    Último Low Validado (Demanda):   156.63800
+    Distancia a Oferta:  1770.0 pips
+    Distancia a Demanda: 1080.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                JPY=X
+    Entrada exacta:     156.74600
+    Stop Loss:          156.72770
+    Take Profit:        156.79177
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  70%
+    Justificación:      FVG: Rebalanceo de Imbalance Alcista
+
+============================================================

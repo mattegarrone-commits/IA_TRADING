@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): CHF=X
+   FECHA: 2025-12-31 17:37:19
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.79242
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.79260
+    Último Low Validado (Demanda):   0.79211
+    Distancia a Oferta:  1.8 pips
+    Distancia a Demanda: 3.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                CHF=X
+    Entrada exacta:     0.79242
+    Stop Loss:          0.79310
+    Take Profit:        0.79072
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

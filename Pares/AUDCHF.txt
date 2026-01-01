@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: AUDCHF=X
+   FECHA: 2025-12-29 20:45:50
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.52812
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.52904
+    Último Low Validado (Demanda):   0.52687
+    Distancia a Oferta:  9.2 pips
+    Distancia a Demanda: 12.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

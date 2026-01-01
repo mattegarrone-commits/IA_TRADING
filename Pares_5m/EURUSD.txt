@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): EURUSD=X
+   FECHA: 2026-01-01 13:25:05
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.17495
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       LONDRES
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.17495
+    Último Low Validado (Demanda):   1.17495
+    Distancia a Oferta:  0.0 pips
+    Distancia a Demanda: 0.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURUSD=X
+    Entrada exacta:     1.17495
+    Stop Loss:          1.17389
+    Take Profit:        1.17707
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

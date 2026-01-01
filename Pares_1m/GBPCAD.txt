@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): GBPCAD=X
+   FECHA: 2025-12-31 17:37:30
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.84781
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.84784
+    Último Low Validado (Demanda):   1.84726
+    Distancia a Oferta:  0.3 pips
+    Distancia a Demanda: 5.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPCAD=X
+    Entrada exacta:     1.84781
+    Stop Loss:          1.84676
+    Take Profit:        1.85044
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

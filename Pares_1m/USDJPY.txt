@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): JPY=X
+   FECHA: 2025-12-31 17:37:15
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       156.67500
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   156.70799
+    Último Low Validado (Demanda):   156.66400
+    Distancia a Oferta:  329.9 pips
+    Distancia a Demanda: 110.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                JPY=X
+    Entrada exacta:     156.67500
+    Stop Loss:          156.68231
+    Take Profit:        156.65674
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  80%
+    Justificación:      FVG: Rebalanceo de Imbalance Bajista
+
+============================================================

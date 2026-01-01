@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): USDNOK=X
+   FECHA: 2025-12-30 18:41:41
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       10.04575
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   10.05145
+    Último Low Validado (Demanda):   10.02232
+    Distancia a Oferta:  57.0 pips
+    Distancia a Demanda: 234.3 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

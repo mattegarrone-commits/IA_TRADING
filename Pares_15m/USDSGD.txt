@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): USDSGD=X
+   FECHA: 2025-12-30 18:41:39
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.28450
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.28470
+    Último Low Validado (Demanda):   1.28351
+    Distancia a Oferta:  2.0 pips
+    Distancia a Demanda: 9.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                USDSGD=X
+    Entrada exacta:     1.28450
+    Stop Loss:          1.28520
+    Take Profit:        1.28310
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rechazo en Resistencia (Scalping)
+
+============================================================

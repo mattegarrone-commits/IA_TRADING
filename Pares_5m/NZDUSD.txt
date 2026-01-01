@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): NZDUSD=X
+   FECHA: 2025-12-31 12:24:03
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.57524
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.57650
+    Último Low Validado (Demanda):   0.57644
+    Distancia a Oferta:  12.6 pips
+    Distancia a Demanda: 11.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                NZDUSD=X
+    Entrada exacta:     0.57524
+    Stop Loss:          0.57700
+    Take Profit:        0.57084
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

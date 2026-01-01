@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): USDSGD=X
+   FECHA: 2025-12-31 12:24:29
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.28650
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.28591
+    Último Low Validado (Demanda):   1.28435
+    Distancia a Oferta:  5.9 pips
+    Distancia a Demanda: 21.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                USDSGD=X
+    Entrada exacta:     1.28650
+    Stop Loss:          1.28385
+    Take Profit:        1.29312
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

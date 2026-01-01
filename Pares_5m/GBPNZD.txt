@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): GBPNZD=X
+   FECHA: 2025-12-31 12:24:17
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.33177
+    Tendencia Dominante: RANGING
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.33415
+    Último Low Validado (Demanda):   2.33111
+    Distancia a Oferta:  23.8 pips
+    Distancia a Demanda: 6.6 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPNZD=X
+    Entrada exacta:     2.33177
+    Stop Loss:          2.33061
+    Take Profit:        2.33409
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

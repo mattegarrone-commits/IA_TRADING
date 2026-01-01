@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): CHF=X
+   FECHA: 2026-01-01 13:24:04
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.79225
+    Tendencia Dominante: RANGING
+    Sesión Activa:       LONDRES
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.79400
+    Último Low Validado (Demanda):   0.79178
+    Distancia a Oferta:  17.5 pips
+    Distancia a Demanda: 4.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                CHF=X
+    Entrada exacta:     0.79225
+    Stop Loss:          0.79128
+    Take Profit:        0.79419
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

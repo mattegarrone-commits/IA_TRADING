@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: USDSGD=X
+   FECHA: 2025-12-29 20:46:14
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.28550
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.28630
+    Último Low Validado (Demanda):   1.28241
+    Distancia a Oferta:  8.0 pips
+    Distancia a Demanda: 30.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

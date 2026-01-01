@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): EURNZD=X
+   FECHA: 2025-12-31 12:24:12
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.03875
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.03757
+    Último Low Validado (Demanda):   2.03524
+    Distancia a Oferta:  11.8 pips
+    Distancia a Demanda: 35.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

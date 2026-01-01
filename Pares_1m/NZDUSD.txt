@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): NZDUSD=X
+   FECHA: 2025-12-31 17:37:19
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.57561
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.57544
+    Último Low Validado (Demanda):   0.57534
+    Distancia a Oferta:  1.7 pips
+    Distancia a Demanda: 2.6 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

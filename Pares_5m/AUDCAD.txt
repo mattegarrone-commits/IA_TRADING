@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): AUDCAD=X
+   FECHA: 2025-12-31 12:24:20
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.91413
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.91570
+    Último Low Validado (Demanda):   0.91394
+    Distancia a Oferta:  15.7 pips
+    Distancia a Demanda: 1.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                AUDCAD=X
+    Entrada exacta:     0.91413
+    Stop Loss:          0.91620
+    Take Profit:        0.90895
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

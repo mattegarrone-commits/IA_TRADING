@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): NZDCHF=X
+   FECHA: 2025-12-30 18:41:38
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.45857
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.45920
+    Último Low Validado (Demanda):   0.45817
+    Distancia a Oferta:  6.3 pips
+    Distancia a Demanda: 4.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                NZDCHF=X
+    Entrada exacta:     0.45857
+    Stop Loss:          0.45767
+    Take Profit:        0.46037
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

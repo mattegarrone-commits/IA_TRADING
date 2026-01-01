@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): USDZAR=X
+   FECHA: 2025-12-31 17:37:49
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       16.56150
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   16.58460
+    Último Low Validado (Demanda):   16.54500
+    Distancia a Oferta:  231.0 pips
+    Distancia a Demanda: 165.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

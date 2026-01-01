@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): NZDCHF=X
+   FECHA: 2025-12-29 23:26:26
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.45793
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.45893
+    Último Low Validado (Demanda):   0.45718
+    Distancia a Oferta:  10.0 pips
+    Distancia a Demanda: 7.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                NZDCHF=X
+    Entrada exacta:     0.45793
+    Stop Loss:          0.45943
+    Take Profit:        0.45418
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  75%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

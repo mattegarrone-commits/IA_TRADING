@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): GBPNZD=X
+   FECHA: 2025-12-31 17:37:33
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.34153
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.34196
+    Último Low Validado (Demanda):   2.34082
+    Distancia a Oferta:  4.3 pips
+    Distancia a Demanda: 7.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPNZD=X
+    Entrada exacta:     2.34153
+    Stop Loss:          2.34032
+    Take Profit:        2.34456
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

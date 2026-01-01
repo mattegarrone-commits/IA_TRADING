@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): GBPJPY=X
+   FECHA: 2025-12-30 18:41:23
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       210.67101
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   210.75101
+    Último Low Validado (Demanda):   210.53999
+    Distancia a Oferta:  800.0 pips
+    Distancia a Demanda: 1310.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

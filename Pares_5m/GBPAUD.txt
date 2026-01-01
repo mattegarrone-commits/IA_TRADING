@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): GBPAUD=X
+   FECHA: 2025-12-31 12:24:16
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.01178
+    Tendencia Dominante: RANGING
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.01461
+    Último Low Validado (Demanda):   2.01163
+    Distancia a Oferta:  28.3 pips
+    Distancia a Demanda: 1.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPAUD=X
+    Entrada exacta:     2.01178
+    Stop Loss:          2.01113
+    Take Profit:        2.01308
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

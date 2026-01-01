@@ -1,0 +1,18 @@
+# Virtual Environment
+.venv_mobile/
+.venv/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Local Config
+.env
+.vscode/
+
+# Data
+trade_journal.json
+
+# OS
+.DS_Store
+Thumbs.db

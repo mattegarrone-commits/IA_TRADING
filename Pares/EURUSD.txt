@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: EURUSD=X
+   FECHA: 2025-12-29 20:45:16
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.17758
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.17925
+    Último Low Validado (Demanda):   1.17536
+    Distancia a Oferta:  16.7 pips
+    Distancia a Demanda: 22.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

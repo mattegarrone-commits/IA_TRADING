@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): CHFJPY=X
+   FECHA: 2025-12-30 18:41:39
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       197.50600
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   197.75200
+    Último Low Validado (Demanda):   197.53200
+    Distancia a Oferta:  2460.0 pips
+    Distancia a Demanda: 260.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

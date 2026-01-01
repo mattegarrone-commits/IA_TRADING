@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): EURCHF=X
+   FECHA: 2025-12-31 17:37:24
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.93093
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.93080
+    Último Low Validado (Demanda):   0.93013
+    Distancia a Oferta:  1.3 pips
+    Distancia a Demanda: 8.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

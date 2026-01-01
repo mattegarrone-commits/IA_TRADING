@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURCAD=X
+   FECHA: 2025-12-30 18:41:19
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.60866
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.61249
+    Último Low Validado (Demanda):   1.60744
+    Distancia a Oferta:  38.3 pips
+    Distancia a Demanda: 12.2 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                EURCAD=X
+    Entrada exacta:     1.60866
+    Stop Loss:          1.61055
+    Take Profit:        1.60489
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rechazo Dinámico en EMA 50
+
+============================================================

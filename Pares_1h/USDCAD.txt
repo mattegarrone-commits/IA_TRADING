@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): CAD=X
+   FECHA: 2025-12-29 23:25:58
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.36897
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.37012
+    Último Low Validado (Demanda):   1.36590
+    Distancia a Oferta:  11.5 pips
+    Distancia a Demanda: 30.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

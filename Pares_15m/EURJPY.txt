@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURJPY=X
+   FECHA: 2025-12-30 18:41:17
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       183.78799
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   183.89500
+    Último Low Validado (Demanda):   183.76199
+    Distancia a Oferta:  1070.1 pips
+    Distancia a Demanda: 260.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

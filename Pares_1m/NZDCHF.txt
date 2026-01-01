@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): NZDCHF=X
+   FECHA: 2025-12-31 17:37:43
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.45594
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.45585
+    Último Low Validado (Demanda):   0.45554
+    Distancia a Oferta:  0.9 pips
+    Distancia a Demanda: 4.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

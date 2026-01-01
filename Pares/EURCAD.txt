@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: EURCAD=X
+   FECHA: 2025-12-29 20:45:34
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.61122
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.61361
+    Último Low Validado (Demanda):   1.60682
+    Distancia a Oferta:  23.9 pips
+    Distancia a Demanda: 44.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

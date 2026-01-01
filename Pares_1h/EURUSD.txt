@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): EURUSD=X
+   FECHA: 2025-12-29 23:25:46
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.17772
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.17925
+    Último Low Validado (Demanda):   1.17536
+    Distancia a Oferta:  15.3 pips
+    Distancia a Demanda: 23.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURUSD=X
+    Entrada exacta:     1.17772
+    Stop Loss:          1.17486
+    Take Profit:        1.18485
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  75%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): AUDUSD=X
+   FECHA: 2025-12-31 12:24:03
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.66671
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.66872
+    Último Low Validado (Demanda):   0.66774
+    Distancia a Oferta:  20.1 pips
+    Distancia a Demanda: 10.2 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                AUDUSD=X
+    Entrada exacta:     0.66671
+    Stop Loss:          0.66922
+    Take Profit:        0.66045
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

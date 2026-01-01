@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): AUDJPY=X
+   FECHA: 2025-12-31 12:24:18
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       104.59900
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   104.79400
+    Último Low Validado (Demanda):   104.61800
+    Distancia a Oferta:  1950.0 pips
+    Distancia a Demanda: 190.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

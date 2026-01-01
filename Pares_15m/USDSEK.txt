@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): USDSEK=X
+   FECHA: 2025-12-30 18:41:40
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       9.19185
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   9.20042
+    Último Low Validado (Demanda):   9.18350
+    Distancia a Oferta:  85.7 pips
+    Distancia a Demanda: 83.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                USDSEK=X
+    Entrada exacta:     9.19185
+    Stop Loss:          9.19008
+    Take Profit:        9.19540
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

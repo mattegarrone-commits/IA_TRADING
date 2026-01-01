@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): AUDCAD=X
+   FECHA: 2025-12-30 18:41:32
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.91678
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.91731
+    Último Low Validado (Demanda):   0.91541
+    Distancia a Oferta:  5.3 pips
+    Distancia a Demanda: 13.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                AUDCAD=X
+    Entrada exacta:     0.91678
+    Stop Loss:          0.91491
+    Take Profit:        0.92052
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

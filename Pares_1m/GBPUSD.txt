@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): GBPUSD=X
+   FECHA: 2025-12-31 17:37:17
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.34756
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.34735
+    Último Low Validado (Demanda):   1.34727
+    Distancia a Oferta:  2.2 pips
+    Distancia a Demanda: 2.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPUSD=X
+    Entrada exacta:     1.34756
+    Stop Loss:          1.34677
+    Take Profit:        1.34954
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): GBPCAD=X
+   FECHA: 2025-12-30 18:41:26
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.84430
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.84428
+    Último Low Validado (Demanda):   1.84237
+    Distancia a Oferta:  0.2 pips
+    Distancia a Demanda: 19.3 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                GBPCAD=X
+    Entrada exacta:     1.84430
+    Stop Loss:          1.84631
+    Take Profit:        1.84028
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rechazo Dinámico en EMA 50
+
+============================================================

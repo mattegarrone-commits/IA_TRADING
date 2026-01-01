@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): CADCHF=X
+   FECHA: 2025-12-30 18:41:36
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.57836
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.57836
+    Último Low Validado (Demanda):   0.57711
+    Distancia a Oferta:  0.0 pips
+    Distancia a Demanda: 12.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                CADCHF=X
+    Entrada exacta:     0.57836
+    Stop Loss:          0.57661
+    Take Profit:        0.58274
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

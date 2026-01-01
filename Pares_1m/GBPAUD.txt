@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): GBPAUD=X
+   FECHA: 2025-12-31 17:37:31
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.01904
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.01934
+    Último Low Validado (Demanda):   2.01598
+    Distancia a Oferta:  3.0 pips
+    Distancia a Demanda: 30.6 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPAUD=X
+    Entrada exacta:     2.01904
+    Stop Loss:          2.01704
+    Take Profit:        2.02305
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

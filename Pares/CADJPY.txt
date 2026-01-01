@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: CADJPY=X
+   FECHA: 2025-12-29 20:46:04
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       114.02000
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   114.55700
+    Último Low Validado (Demanda):   113.98000
+    Distancia a Oferta:  5370.0 pips
+    Distancia a Demanda: 399.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): USDSEK=X
+   FECHA: 2025-12-29 23:26:29
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       9.17127
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   9.19982
+    Último Low Validado (Demanda):   9.15412
+    Distancia a Oferta:  285.5 pips
+    Distancia a Demanda: 171.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                USDSEK=X
+    Entrada exacta:     9.17127
+    Stop Loss:          9.17556
+    Take Profit:        9.16055
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  70%
+    Justificación:      FVG: Rebalanceo de Imbalance Bajista
+
+============================================================

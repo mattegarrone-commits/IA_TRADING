@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): GBPCAD=X
+   FECHA: 2025-12-31 12:24:15
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.83945
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.84516
+    Último Low Validado (Demanda):   1.84112
+    Distancia a Oferta:  57.1 pips
+    Distancia a Demanda: 16.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

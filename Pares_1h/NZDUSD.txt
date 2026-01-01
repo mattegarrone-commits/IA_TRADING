@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): NZDUSD=X
+   FECHA: 2025-12-29 23:25:56
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.58072
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.58119
+    Último Low Validado (Demanda):   0.57921
+    Distancia a Oferta:  4.7 pips
+    Distancia a Demanda: 15.1 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                NZDUSD=X
+    Entrada exacta:     0.58072
+    Stop Loss:          0.58169
+    Take Profit:        0.57877
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rechazo en Resistencia (Scalping)
+
+============================================================

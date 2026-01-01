@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): AUDNZD=X
+   FECHA: 2025-12-31 17:37:37
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.15956
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.16034
+    Último Low Validado (Demanda):   1.15927
+    Distancia a Oferta:  7.8 pips
+    Distancia a Demanda: 2.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                AUDNZD=X
+    Entrada exacta:     1.15956
+    Stop Loss:          1.15877
+    Take Profit:        1.16114
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

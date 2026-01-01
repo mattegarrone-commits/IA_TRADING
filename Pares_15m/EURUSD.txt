@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURUSD=X
+   FECHA: 2026-01-01 13:24:00
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.17495
+    Tendencia Dominante: RANGING
+    Sesión Activa:       LONDRES
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.17495
+    Último Low Validado (Demanda):   1.17495
+    Distancia a Oferta:  0.0 pips
+    Distancia a Demanda: 0.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

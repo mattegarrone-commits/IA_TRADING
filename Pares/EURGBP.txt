@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: EURGBP=X
+   FECHA: 2025-12-29 20:45:29
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.87140
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.87342
+    Último Low Validado (Demanda):   0.87096
+    Distancia a Oferta:  20.2 pips
+    Distancia a Demanda: 4.4 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

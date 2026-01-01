@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): NZDJPY=X
+   FECHA: 2025-12-31 17:37:41
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       90.14900
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   90.16900
+    Último Low Validado (Demanda):   90.12300
+    Distancia a Oferta:  200.0 pips
+    Distancia a Demanda: 260.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

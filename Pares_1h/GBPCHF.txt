@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): GBPCHF=X
+   FECHA: 2025-12-29 23:26:06
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.06543
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.06687
+    Último Low Validado (Demanda):   1.06268
+    Distancia a Oferta:  14.4 pips
+    Distancia a Demanda: 27.5 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPCHF=X
+    Entrada exacta:     1.06543
+    Stop Loss:          1.06218
+    Take Profit:        1.07356
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  75%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

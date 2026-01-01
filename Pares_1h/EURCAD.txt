@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): EURCAD=X
+   FECHA: 2025-12-29 23:26:02
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.61134
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.61361
+    Último Low Validado (Demanda):   1.60682
+    Distancia a Oferta:  22.7 pips
+    Distancia a Demanda: 45.2 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                EURCAD=X
+    Entrada exacta:     1.61134
+    Stop Loss:          1.61411
+    Take Profit:        1.60580
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rechazo en Resistencia (Scalping)
+
+============================================================

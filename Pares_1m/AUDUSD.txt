@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): AUDUSD=X
+   FECHA: 2025-12-31 17:37:18
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.66756
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.66765
+    Último Low Validado (Demanda):   0.66742
+    Distancia a Oferta:  0.9 pips
+    Distancia a Demanda: 1.3 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                AUDUSD=X
+    Entrada exacta:     0.66756
+    Stop Loss:          0.66692
+    Take Profit:        0.66882
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  70%
+    Justificación:      Rango: Rebote en Soporte (Scalping)
+
+============================================================

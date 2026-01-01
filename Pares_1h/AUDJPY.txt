@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): AUDJPY=X
+   FECHA: 2025-12-29 23:26:17
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       104.70100
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   105.21500
+    Último Low Validado (Demanda):   104.34900
+    Distancia a Oferta:  5140.0 pips
+    Distancia a Demanda: 3520.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                AUDJPY=X
+    Entrada exacta:     104.70100
+    Stop Loss:          104.65270
+    Take Profit:        104.82174
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  70%
+    Justificación:      FVG: Rebalanceo de Imbalance Alcista
+
+============================================================

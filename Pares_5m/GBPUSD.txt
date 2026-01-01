@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): GBPUSD=X
+   FECHA: 2026-01-01 13:25:07
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.34742
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       LONDRES
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.34742
+    Último Low Validado (Demanda):   1.34742
+    Distancia a Oferta:  0.0 pips
+    Distancia a Demanda: 0.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                GBPUSD=X
+    Entrada exacta:     1.34742
+    Stop Loss:          1.34622
+    Take Profit:        1.34981
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

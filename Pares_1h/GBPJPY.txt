@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): GBPJPY=X
+   FECHA: 2025-12-29 23:26:05
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       211.04601
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   211.18401
+    Último Low Validado (Demanda):   210.44701
+    Distancia a Oferta:  1380.0 pips
+    Distancia a Demanda: 5990.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: JPY=X
+   FECHA: 2025-12-29 20:45:18
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       156.06599
+    Tendencia Dominante: RANGING
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   156.42300
+    Último Low Validado (Demanda):   155.91000
+    Distancia a Oferta:  3570.1 pips
+    Distancia a Demanda: 1559.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================

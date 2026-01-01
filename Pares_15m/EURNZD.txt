@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURNZD=X
+   FECHA: 2025-12-30 18:41:22
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.02878
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.02798
+    Último Low Validado (Demanda):   2.02491
+    Distancia a Oferta:  8.0 pips
+    Distancia a Demanda: 38.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURNZD=X
+    Entrada exacta:     2.02878
+    Stop Loss:          2.02641
+    Take Profit:        2.03352
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

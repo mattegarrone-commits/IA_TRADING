@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURGBP=X
+   FECHA: 2025-12-30 18:41:16
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.87217
+    Tendencia Dominante: RANGING
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.87321
+    Último Low Validado (Demanda):   0.87223
+    Distancia a Oferta:  10.4 pips
+    Distancia a Demanda: 0.6 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+
+============================================================

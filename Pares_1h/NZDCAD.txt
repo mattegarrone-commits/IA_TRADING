@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): NZDCAD=X
+   FECHA: 2025-12-29 23:26:25
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.79432
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.79726
+    Último Low Validado (Demanda):   0.79258
+    Distancia a Oferta:  29.4 pips
+    Distancia a Demanda: 17.4 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                NZDCAD=X
+    Entrada exacta:     0.79432
+    Stop Loss:          0.79776
+    Take Profit:        0.78572
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  75%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

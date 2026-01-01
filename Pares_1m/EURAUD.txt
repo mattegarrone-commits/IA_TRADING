@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): EURAUD=X
+   FECHA: 2025-12-31 17:37:26
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.76025
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.76075
+    Último Low Validado (Demanda):   1.75976
+    Distancia a Oferta:  5.0 pips
+    Distancia a Demanda: 4.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURAUD=X
+    Entrada exacta:     1.76025
+    Stop Loss:          1.75926
+    Take Profit:        1.76272
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

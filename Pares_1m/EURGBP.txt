@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): EURGBP=X
+   FECHA: 2025-12-31 17:37:22
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.87174
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.87200
+    Último Low Validado (Demanda):   0.87180
+    Distancia a Oferta:  2.6 pips
+    Distancia a Demanda: 0.6 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                EURGBP=X
+    Entrada exacta:     0.87174
+    Stop Loss:          0.87250
+    Take Profit:        0.86984
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

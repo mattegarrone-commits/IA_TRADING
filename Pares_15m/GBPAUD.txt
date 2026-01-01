@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): GBPAUD=X
+   FECHA: 2025-12-30 18:41:27
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.01142
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.01217
+    Último Low Validado (Demanda):   2.00902
+    Distancia a Oferta:  7.5 pips
+    Distancia a Demanda: 24.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                GBPAUD=X
+    Entrada exacta:     2.01142
+    Stop Loss:          2.01267
+    Take Profit:        2.00829
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

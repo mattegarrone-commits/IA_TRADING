@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): GBPUSD=X
+   FECHA: 2025-12-29 23:25:53
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.35048
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.35113
+    Último Low Validado (Demanda):   1.34711
+    Distancia a Oferta:  6.6 pips
+    Distancia a Demanda: 33.7 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> Setup descartado por Riesgo: Probabilidad estimada insuficiente (< 70%)
+    NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+
+============================================================

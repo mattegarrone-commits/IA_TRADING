@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): EURUSD=X
+   FECHA: 2025-12-31 17:37:14
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.17509
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.17523
+    Último Low Validado (Demanda):   1.17509
+    Distancia a Oferta:  1.4 pips
+    Distancia a Demanda: 0.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURUSD=X
+    Entrada exacta:     1.17509
+    Stop Loss:          1.17382
+    Take Profit:        1.17763
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rebote Dinámico en EMA 50
+
+============================================================

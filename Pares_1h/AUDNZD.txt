@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): AUDNZD=X
+   FECHA: 2025-12-29 23:26:20
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       1.15394
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   1.15487
+    Último Low Validado (Demanda):   1.15162
+    Distancia a Oferta:  9.3 pips
+    Distancia a Demanda: 23.2 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                AUDNZD=X
+    Entrada exacta:     1.15394
+    Stop Loss:          1.15112
+    Take Profit:        1.16099
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  75%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

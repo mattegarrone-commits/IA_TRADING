@@ -1,0 +1,21 @@
+============================================================
+   REPORTE INSTITUCIONAL (1h): AUDCAD=X
+   FECHA: 2025-12-29 23:26:19
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.91685
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.91940
+    Último Low Validado (Demanda):   0.91381
+    Distancia a Oferta:  25.5 pips
+    Distancia a Demanda: 30.4 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> Setup descartado por Riesgo: Probabilidad estimada insuficiente (< 70%)
+    NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+
+============================================================

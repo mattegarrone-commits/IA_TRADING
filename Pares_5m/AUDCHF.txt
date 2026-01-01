@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (5m): AUDCHF=X
+   FECHA: 2025-12-31 12:24:19
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.52914
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       LONDRES + NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.52941
+    Último Low Validado (Demanda):   0.52824
+    Distancia a Oferta:  2.7 pips
+    Distancia a Demanda: 9.0 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                AUDCHF=X
+    Entrada exacta:     0.52914
+    Stop Loss:          0.52991
+    Take Profit:        0.52721
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Oferta (Order Block)
+
+============================================================

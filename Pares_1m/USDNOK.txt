@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (1m): USDNOK=X
+   FECHA: 2025-12-31 17:37:47
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       10.08150
+    Tendencia Dominante: BEARISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   10.08481
+    Último Low Validado (Demanda):   10.08047
+    Distancia a Oferta:  33.1 pips
+    Distancia a Demanda: 10.3 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          SELL
+    Par:                USDNOK=X
+    Entrada exacta:     10.08150
+    Stop Loss:          10.08359
+    Take Profit:        10.07731
+    Ratio Riesgo/Ben:   1:2.00
+    Probabilidad est.:  75%
+    Justificación:      Trend: Rechazo Dinámico en EMA 50
+
+============================================================

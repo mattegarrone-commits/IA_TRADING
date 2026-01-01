@@ -1,0 +1,29 @@
+============================================================
+   REPORTE INSTITUCIONAL (15m): EURCHF=X
+   FECHA: 2025-12-30 18:41:18
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       0.93051
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       NUEVA YORK
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   0.93050
+    Último Low Validado (Demanda):   0.92927
+    Distancia a Oferta:  0.1 pips
+    Distancia a Demanda: 12.4 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+
+    >>> ¡OPORTUNIDAD INSTITUCIONAL DETECTADA! <<<
+    Operación:          BUY
+    Par:                EURCHF=X
+    Entrada exacta:     0.93051
+    Stop Loss:          0.92877
+    Take Profit:        0.93486
+    Ratio Riesgo/Ben:   1:2.50
+    Probabilidad est.:  85%
+    Justificación:      SMC: Retesteo de Zona de Demanda (Order Block)
+
+============================================================

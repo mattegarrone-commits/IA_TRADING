@@ -1,0 +1,22 @@
+============================================================
+   REPORTE INSTITUCIONAL: GBPNZD=X
+   FECHA: 2025-12-29 20:45:47
+============================================================
+
+[1] CONTEXTO DE MERCADO
+    Precio Actual:       2.32601
+    Tendencia Dominante: BULLISH
+    Sesión Activa:       ASIA / CIERRE (Baja Liquidez)
+
+[2] NIVELES ESTRUCTURALES (SMC)
+    Último High Validado (Oferta):   2.32913
+    Último Low Validado (Demanda):   2.32212
+    Distancia a Oferta:  31.2 pips
+    Distancia a Demanda: 38.9 pips
+
+[3] ANÁLISIS DE OPORTUNIDAD
+    >> NO HAY OPERACIÓN CON VENTAJA MATEMÁTICA
+    Razón: No se cumplen condiciones de confluencia (Estructura + Zona + Sesión).
+    Nota: Mercado fuera de horario institucional operativo.
+
+============================================================
